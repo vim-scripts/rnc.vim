@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=387
+
+Syntax highlighting for RELAX NG Compact Syntax: http://www.oasis-open.org/committees/relax-ng/compact-20020607.html
+
+This is currently very helpful (a little color goes a long way), but not quite fully mature. I am happy to add the feature you want most, and incrementally it will grow into a mature syntax file.
